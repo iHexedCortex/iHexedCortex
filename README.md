@@ -4,21 +4,9 @@
 ### `Architecting across the silicon-to-cloud abstraction layer.`
 **Full-Stack Systems Engineer | Low-Level Specialist | Backend Architect**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Initializing+System+Core...;Executing+Pure+ASM+Logic;Optimizing+High-Performance+Systems;Mastering+C%2B%2B+%2F+Qt+6;Sunday.exec+--chef+--coffee;Decoding+HDL+to+Cloud+Architecture)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ihexedcortex&label=System%20Accesses&color=41CD52&style=for-the-badge" alt="ihexedcortex" />
 </p>
-
----
-
-## 🛰️ System Log: Active Processes
-| Process ID | Operation | Status |
-| :--- | :--- | :--- |
-| `0x001` | **Core Development:** [ThisDay Weather](https://github.com/iHexedCortex/ThisDay) | `STABLE` |
-| `0x002` | **Research:** Advanced GLSL Shaders in QML | `IN_PROGRESS` |
-| `0x003` | **Collaboration:** Systems Optimization & UI Kernels | `LISTENING` |
-| `0x004` | **Sunday.exec:** Amateur Chef & Coffee Brewing | `READY` |
 
 ---
 
