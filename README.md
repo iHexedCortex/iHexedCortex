@@ -66,16 +66,19 @@
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📊 Activity Overview</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihexedcortex&bg_color=00000000&color=70a1ff&line=70a1ff&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihexedcortex&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/ihexedcortex/ihexedcortex/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihexedcortex&show_icons=true&locale=en" alt="GitHub Stats" />
+  <i>The snake eats my commits. To activate this, you need a simple GitHub Action!</i>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihexedcortex&" alt="GitHub Streak" />
 </p>
