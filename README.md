@@ -70,3 +70,17 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihexedcortex&bg_color=00000000&color=70a1ff&line=70a1ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
+<p align="center"><i>Let's build something high-performance together.</i></p>
+
+<p align="center">
+  <a href="https://t.me/iHexedCortex">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a> &nbsp;
+  <a href="mailto:samandartoshtemirovmaratovich@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a> &nbsp;
+</p>
