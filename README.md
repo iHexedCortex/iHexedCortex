@@ -77,6 +77,9 @@
 <p align="center"><i>Let's build something high-performance together.</i></p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/iHexedCortex">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp;
   <a href="https://t.me/iHexedCortex">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a> &nbsp;
